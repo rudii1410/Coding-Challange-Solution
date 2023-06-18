@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/repeated-string/problem
+package hackerrank// https://www.hackerrank.com/challenges/repeated-string/problem
 
 fun repeatedString(s: String, n: Long): Long {
     val len = s.length
